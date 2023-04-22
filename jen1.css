@@ -1,0 +1,164 @@
+*{
+
+    margin: 0;
+}
+
+.body{
+
+    background-color: beige;
+
+   
+}
+
+.reason1 {
+    /* The image used */
+    background-image: url(1.jpg);
+  
+    /* Set a specific height */
+    min-height: 500px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .reason2 {
+    /* The image used */
+    background-image: url("2.jpg");
+  
+    /* Set a specific height */
+    min-height: 500px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .reason3 {
+    /* The image used */
+    background-image: url("sulky.jpg");
+   
+    /* Set a specific height */
+    min-height: 500px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+
+  .l1{
+
+    width: 50%;
+    height: 500px;
+    float: right;
+
+  }
+
+  .l2{
+
+    width: 50%;
+    height: 500px;
+    float: left;
+    
+  }
+
+  .p1{
+
+    font-size: 40px;
+    margin: 50px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    font-family: Gaegu;
+    color: rgb(121, 148, 81);
+    
+}
+
+.p3 
+{
+    font-size: 20px;
+    color: rgb(16, 20, 16);
+    margin-left: 50px;
+    line-height: 30px;
+    text-align: justify;
+    font-family: "Gaegu";
+    width: 500px;
+
+}
+
+.l3{
+
+    width: 50%;
+    height: 500px;
+    float: right;
+ 
+
+  }
+
+  
+  .p2{
+
+    font-size: 40px;
+    margin: 50px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    font-family: Gaegu;
+    color: beige;
+    
+}
+
+.p4 
+{
+    font-size: 20px;
+    color: whitesmoke;
+    margin-left: 50px;
+    line-height: 30px;
+    text-align: justify;
+    font-family: "Gaegu";
+    width: 500px;
+
+}
+
+ 
+
+  .l4{
+
+    width: 50%;
+    height: 500px;
+    float: left;
+  }
+
+  .l5{
+
+    width: 50%;
+    height: 500px;
+    float: left;
+ 
+  }
+
+  .l6{
+    width: 50%;
+    height: 500px;
+    float: right;
+  }
+
+  .l7{
+
+    width: 50%;
+    height: 500px;
+    float: right;
+ 
+
+  }
+
+  .l8{
+
+    width: 50%;
+    height: 500px;
+    float: left;
+  }
